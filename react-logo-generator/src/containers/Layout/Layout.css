@@ -1,0 +1,19 @@
+.react-logo{
+    min-height: 400px;
+}
+.select-background{
+    font-size: 25px;
+    font-weight: bold
+}
+.color {
+    margin-top: 65px;
+}
+.color button {
+    color: #fff;
+}
+.dot {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    display: inline-block;
+  }
