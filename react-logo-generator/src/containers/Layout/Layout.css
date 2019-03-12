@@ -6,14 +6,19 @@
     font-weight: bold
 }
 .color {
-    margin-top: 65px;
+    margin-top: 47px;
 }
 .color button {
     color: #fff;
 }
 .dot {
-    height: 25px;
-    width: 25px;
+    height: 32px;
+    width: 32px;
     border-radius: 50%;
     display: inline-block;
-  }
+    margin: 7px;
+}
+.color-shades{
+    height: 40px;
+    margin-bottom: 11px;
+}
